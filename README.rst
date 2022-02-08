@@ -13,4 +13,4 @@ https://docs.readthedocs.io/en/stable/tutorial/
 .. |docs| image:: https://readthedocs.org/projects/pip/badge/?version=latest&style=plastic  
     :alt: Documentation status
     :scale: 100%
-    :target: https://antonlydell-rtd-tutorial.readthedocs.io/en/latest/
+    :target: https://antonlydell-rtd-tutorial.readthedocs.io/en/latest/?badge=latest
